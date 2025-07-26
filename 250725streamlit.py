@@ -1,7 +1,7 @@
 print('00-1基本import')
 import streamlit as st
-import numpy as np
-import pandas as pd
+#import numpy as np
+#import pandas as pd
 from PIL import Image
 # imageﾊpip install pillowｶﾞ必要 pil
 import time
