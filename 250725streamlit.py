@@ -8,7 +8,8 @@ import time
 #from datetime import datetime
 import datetime
 #import matplotlib.pyplot as plt
-import plotly.graph_objects as go
+#import plotly.graph_objects as go
+
 print('')
 print('01-1 titleの表示')
 st.title('250725streamlit')
